@@ -16,6 +16,7 @@
 6. 함수, class, for문 등의 문법이 상이하므로 변경하여 적용해야 함.
 
 ## Reference
+[stageus-lecture-python-week3](https://github.com/cmsggg/stageus-lecture-python-week3)
 
 ## Class Diagram
 
