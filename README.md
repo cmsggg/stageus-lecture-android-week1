@@ -1,10 +1,10 @@
 ## Project Description
 
-개발 언어 : Kotlin
-과정 : [심화 과정] 안드로이드앱 과정  
-주차 : 1주차  
-과제 : 카페의 Kiosk 소프트웨어 개발  
-조건 : 기초 과정인 Python으로 구현했던 내용을 Kotlin으로 변경하여, Kotlin과 Class Diragram에 대해 복습하는 과제  
+- 개발 언어 : Kotlin
+- 과정 : [심화 과정] 안드로이드앱 과정  
+- 주차 : 1주차  
+- 과제 : 카페의 Kiosk 소프트웨어 개발  
+- 조건 : 기초 과정인 Python으로 구현했던 내용을 Kotlin으로 변경하여, Kotlin과 Class Diragram에 대해 복습하는 과제  
 
 ## Difference between Python and Kotlin
 
