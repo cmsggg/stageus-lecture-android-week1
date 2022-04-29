@@ -20,4 +20,4 @@
 
 ## Class Diagram
 
-<p align="center"><img src="슬라이드1.PNG" width="617" height="540"></p>
+<p align="center"><img src="슬라이드1.PNG" width="760" height="428"></p>
